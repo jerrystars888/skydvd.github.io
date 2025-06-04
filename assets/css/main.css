@@ -1016,12 +1016,7 @@ section,
 }
 
 .about .nav-pills li+li {
-  margin-left: 40px;
-}
-@media (max-width: 768px) {
-  .about .nav-pills li+li {
-    margin-right: 3px;
-  }
+  margin-left: 39px;
 }
 
 .about .nav-link {
